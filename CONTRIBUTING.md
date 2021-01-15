@@ -56,7 +56,7 @@ Other ways to contribute require direct contact with us. For example:
 You can start seeing the
 [documentation](https://www.aseprite.org/docs/), and
 [contact us](mailto:support@aseprite.org) if you want to help
-writting documentation
+writing documentation
 or recording [tutorials](https://www.aseprite.org/docs/tutorial/).
 
 If you are going to write documentation, we recommend you to take
